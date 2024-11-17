@@ -1,5 +1,11 @@
 # Ignore virtual environments
 myenv/
-*.pyc
+venv/
+
+# Ignore Python cache files
 __pycache__/
+*.py[cod]
+
+# Ignore large files and directories (you can customize)
+*.so
 *.dylib
