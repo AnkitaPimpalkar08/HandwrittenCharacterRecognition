@@ -1,0 +1,5 @@
+# Ignore virtual environments
+myenv/
+*.pyc
+__pycache__/
+*.dylib
